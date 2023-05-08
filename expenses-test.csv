@@ -1,0 +1,21 @@
+age,sex,bmi,children,smoker,region
+52,woman,26.6,0,no,north east
+27,man,27.1,0,no,south
+26,woman,29.9,1,no,south
+24,woman,22.2,0,no,south
+34,woman,33.7,1,no,southeast
+53,woman,33.3,0,no,north
+32,man,30.8,3,no,southeast
+19,man,34.8,0,yes,southeast
+42,man,24.6,0,yes,south
+55,man,31.9,3,no,south
+28,man,38.1,0,no,south
+58,woman,41.9,0,no,south
+41,woman,31.6,1,no,north
+47,man,25.5,2,no,north
+42,woman,36.2,1,no,north east
+49,woman,25.8,3,no,south
+19,woman,17.8,0,no,southeast
+59,man,22.5,1,no,southeast
+39,man,24.5,2,no,north east
+40,woman,22.2,2,yes,south
