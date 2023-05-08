@@ -1,4 +1,4 @@
-# Forecasting-Hospital-Expenses
+# Forecasting Hospital Expenses
 Forecasting Hospital Expenses with Machine Learning in R
 
 [Script](https://github.com/Caio-Felice-Cunha/Forecasting-Hospital-Expenses/blob/main/Forecasting%20Hospital%20Expenses.r) <br>
